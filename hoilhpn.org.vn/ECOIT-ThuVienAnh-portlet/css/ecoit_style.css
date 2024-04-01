@@ -1,0 +1,1386 @@
+.box_news_ecoit{
+	width: 99.73%;
+	margin: 3px 0;
+	overflow: hidden;
+}
+
+.box_news_ecoit:first-child{
+	margin-top: 0 !important;
+}
+
+.box_news_ecoit:first-child{
+	margin-top: 0px;
+}
+
+.box_header_ecoit{
+	font-family: "Arial", sans-serif;
+	height: 31px;
+	line-height: 31px;
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/box_header_style_1.png');
+	background-size: 100% 100%;
+	margin-bottom: 2px;
+}
+
+.box_header_ecoit > img{
+	vertical-align: middle;	
+	margin: 0 10px;
+}
+
+.box_header_ecoit > h5{
+	margin-top: 0px !important;
+	font-size: 0.8em !important;
+	font-weight: bold !important;
+	color: #fff !important;
+	display: inline-block;
+	text-transform: uppercase;	
+	margin-bottom: 0px !important;
+}
+
+.box_header_ecoit > h5 a{
+	color: #fff !important;
+}
+
+.box_header_ecoit > span{
+	font-size: 11px;
+	color: #a0ca81;
+	float: right;
+	margin-right: 32px;
+}
+
+.box_header_ecoit ul{
+	float: right;
+	width: 61%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.box_header_ecoit ul,.box_header_ecoit li{
+	list-style: none;
+	display: inline-block;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.box_header_ecoit li{
+	color: #fff;
+}
+
+.box_header_ecoit li:not(:last-child){
+	border-right: 1px solid #fff;
+	line-height: 12px;
+}
+
+.box_header_ecoit li a{
+	margin-right: 13px;
+	margin-left: 7px;
+	font-size: 11px;
+	color: #fff !important;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.box_header_ecoit li a:hover{
+	text-decoration: underline !important;	
+}
+
+.box_body_ecoit:before,.box_body_ecoit:after{
+	content: "";
+  	display: table;
+}
+
+.box_body_ecoit:after{
+	clear: both;
+}
+
+.box_body_ecoit{	
+	border: 1px solid #ababab;
+	padding: 10px;
+	clear: both;
+}
+
+.latest_new_ecoit,.latest_new_ecoit-2{
+	width: 52.6458616%;
+	float: left;
+	overflow: hidden;
+}
+
+.latest_new_ecoit > .thumb_img_ecoit{
+	width: 96.56%;	
+	padding: 0;
+	margin: 0;
+}
+
+.latest_new_ecoit > .thumb_img_ecoit > .thumb_img_ecoit_padding{
+	padding: 3px;
+	border-radius: 3px 3px 3px 3px;
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border: 1px solid #bfbfbf;
+	background: #fff;
+	overflow: hidden;
+	height: 100%;
+}
+
+.latest_new_ecoit > .thumb_img_ecoit > .thumb_img_ecoit_padding img{
+	width: 100%;
+	/*max-height: 230px;*/
+}
+/*9126984*/
+.latest_new_ecoit h2{
+	margin: 10px 0 10px 0 !important;
+	max-width: 91.26984% !important;
+	font-size: 13px !important;
+	font-weight: bold !important;
+	color: #003f9d !important;
+	line-height: 20px !important;
+}
+
+.latest_new_ecoit h2 a{
+	font-size: 13px;
+	font-weight: bold !important;
+	color: #003f9d !important;
+	text-decoration: none;
+	text-align: left !important;
+}
+
+.latest_new_ecoit p{
+	padding: 0;
+	margin: 0;
+	max-width: 91.26984%;
+	font-size: 12px;
+	color: #131313;
+	text-align: justify;
+}
+
+.latest_new_ecoit-2 h2{
+	margin: 0 0 10px 0 !important;
+	/* max-width: 91.26984% !important; */
+	
+	padding-right: 10px;
+	
+	font-size: 13px !important;
+	font-weight: bold !important;
+	color: #003f9d !important;
+	line-height: 20px !important;
+}
+
+.latest_new_ecoit-2 img{
+	width: 162px !important;
+	height: 110px !important;
+	/*max-height: 128px;*/
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 8px;
+}
+
+.latest_new_ecoit-2 h2 a{
+	font-size: 13px !important;
+	font-weight: bold !important;
+	color: #ff3600 !important;
+	text-decoration: none !important;
+}
+.latest_new_ecoit-2 span{
+	color: #b0b0b0;
+	font-size: 11px;
+}
+.latest_new_ecoit-2 p{
+	padding: 0;
+	margin: 0;
+	max-width: 96.26984%;
+	font-size: 12px;
+	color: #131313;
+	text-align: justify;
+}
+
+.related_news_ecoit{
+	width: 47.218453%;	
+	float: right;	
+}
+
+.related_news_header_ecoit{
+	padding: 0 14px;
+	margin-bottom: 6px !important;
+}
+
+.related_news_header_ecoit img{
+	vertical-align: middle;
+}
+
+.related_news_header_ecoit span{
+	color: #e63641;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.related_news_ecoit ul,.related_news_ecoit li{
+	list-style: none;	
+	margin: 0;
+}
+.related_news_ecoit ul{
+	padding: 0 14px;
+}
+.related_news_ecoit li{
+	line-height: 19px !important;
+	padding: 8px 0px;
+}
+
+.related_news_ecoit li:first-child{
+	padding-top: 0px;
+}
+
+.related_news_ecoit li:not(:last-child){
+	border-bottom: 1px dotted #787878;
+}
+
+.related_news_ecoit li a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+	color: #131313;
+}
+
+.related_news_ecoit li a:hover{
+	color: #FF5A00;
+	text-decoration: none;
+}
+
+.slide_news_ecoit{
+	width: 100%;
+	height: 120px;
+	float: left;
+	overflow: hidden;
+	clear: both;
+	margin-top: 10px;
+}
+
+.slide_news_ecoit .left_arr_ecoit,.slide_news_ecoit .right_arr_ecoit{
+	width: 1.53417%;
+	height: 100%;
+	position: relative;
+}
+
+.slide_news_ecoit .left_arr_ecoit img,.slide_news_ecoit .right_arr_ecoit img{
+	width: 100%;
+	position: absolute;
+	top: 50%;
+	left: 0;
+	margin-top: -16px;
+}
+
+.slide_news_ecoit .left_arr_ecoit img:hover,.slide_news_ecoit .right_arr_ecoit img:hover{
+	cursor: pointer;
+}
+
+.slide_news_ecoit .left_arr_ecoit{
+	float: left;
+}
+
+.slide_news_ecoit .right_arr_ecoit{
+	float: right;
+}
+
+.slide_news_content_ecoit{
+	width: 95.55%;
+	height: 120px !important;
+	float: left;
+	margin-left: 0.69%;	
+}
+
+#owl-slider-ecoit .item-owl{
+	height: 120px;
+	margin: 0 2px !important;
+	background: #efefef;
+	padding: 5px;
+}
+
+#owl-slider-ecoit .item-owl img{
+	width: 102px !important;
+	height:78px !important;
+	display: inline-block;
+	vertical-align: top;
+	border: 1px solid #fff;
+	padding: 1px !important;
+}
+
+#owl-slider-ecoit .item-owl div{
+	display: inline-block;
+	width: 48%;
+	height: 100px;
+}
+
+#owl-slider-ecoit .item-owl div a{
+	font-size: 12px !important;
+	text-decoration: none;
+	color: #003f9d;
+	line-height: 18px;
+	max-height: 90px !important;
+	overflow: hidden !important;
+	display: block;
+}
+
+#owl-slider-ecoit .item-owl div a:hover{
+	color: #FF5A00;
+	text-decoration: none !important;
+}
+
+#owl-slider-ecoit .item-owl div span{
+	font-size: 10px;
+	color: #000;
+	clear: both;
+	margin-top: 5px;
+	display: block !important;
+}
+
+/* 
+.slide_new_detail{
+	height: 120px;
+	background: #efefef;
+	display: inline-block;	
+	text-align: left;
+}
+
+.slide_new_detail img{
+	max-width: 48% !important;
+	height: 100px !important;
+	padding: 1px;
+	border: 1px solid #fff !important;
+	margin: 9px 0px 0px 9px;
+}
+
+.slide_new_detail > div{
+	width: 50%;
+	height: 110px;
+	float: right;
+	position: relative;
+	margin-top: 10px;
+}
+
+.slide_new_detail > div a{
+	font-size: 11px;
+	color: #033491;
+	text-align: justify !important;
+	max-height: 82px;
+	text-decoration: none;
+	display: block;
+	margin-right: 5px;
+	line-height: 16px !important;
+}
+
+.slide_new_detail > div span{
+	font-size: 10px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+ */
+.mgl-20{
+	margin-left: 20px !important;
+}
+
+.padding-20{
+	padding: 20px;
+}
+
+.color-red{
+	color: #ff3600 !important;
+}
+
+.box_header_style_2{
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/box_header_style_2.png');
+	background-size: 100% 100%;
+	position: relative;
+}
+
+.no-bold a{
+	font-weight: normal !important;
+}
+
+.header_mobile_ecoit{
+	display: none;
+}
+
+.bg_black_ecoit{
+	display: none;
+}
+
+/* Tin Chi Tiet */
+
+.wrapper_article_ecoit{
+	padding: 0 10px 4px 10px;
+}
+
+.wrapper_article_ecoit > span{
+	font-size: 14px;
+	color: #367F00;
+	text-transform: uppercase;
+	/*font-weight: bold;*/
+	clear: both;
+	margin: 6px 0px;
+	display: block;
+}
+
+#post_ecoit{
+	border-radius: 3px 3px 3px 3px;
+	-moz-border-radius: 3px 3px 3px 3px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border: 1px solid #ccc;
+	padding: 10px 16px 10px 16px;
+}
+
+#post_ecoit header{
+	width: 100%;
+	clear: both;
+}
+
+#post_ecoit header h1{
+	font-size: 18px;
+	margin: 0;
+	padding: 0;
+	color: #367F00;
+	line-height: 25px !important;
+}
+
+#post_ecoit header span{
+	color: #898989;
+    font-size: 11px;
+}
+
+#post_ecoit header .tool_box_ecoit{
+
+}
+
+#post_ecoit .body_article{
+	width: 100%;
+	clear: both;
+	border-bottom: 1px solid #e1e1e1;
+	padding-bottom: 20px;
+	overflow: hidden;
+}
+
+#post_ecoit .body_article .intro_ecoit{
+	color: #666;
+    font-weight: bold;
+    text-align: justify;
+    font-size: 13px;
+    line-height: initial !important;
+}
+
+#post_ecoit .body_article .content_ecoit{
+	width: 100%;
+	min-height: 10px;
+	clear: both;
+	margin: 10px 0px;
+	font-size: 13px;
+	overflow: hidden;
+}
+
+#post_ecoit .body_article .author_ecoit{
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #333;
+	display: block;
+	text-align: right;
+	font-weight: bold;
+	margin-top: 16px;
+	clear: both;
+}
+
+.related_ecoit{
+	width: 100%;
+	clear: both;
+}
+
+.related_ecoit header{
+	height: 40px;
+	line-height: 40px;
+}
+
+.related_ecoit header img{
+	vertical-align: middle !important;
+}
+
+.related_ecoit header span{
+	font-size: 12px;
+    font-weight: bold;
+    margin-left: 5px;
+    color: #000;
+}
+
+.related_ecoit ul{	
+}
+
+.related_ecoit ul li{
+	color: #367F00 !important;
+    list-style-type: square !important;
+    padding: 5px 0 !important;
+}
+
+.related_ecoit ul li a{
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;	
+}
+
+.related_ecoit ul li a:hover{
+	color: #FF5A00;
+}
+
+.tags_ecoit{
+	min-height: 10px;
+	background: #F1E8E8;
+	clear: both;
+	border-bottom: 1px solid #f1f1f1;
+    border-top: 1px solid #f1f1f1;
+    padding: 8px 5px 8px 10px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.tags_ecoit span{
+	font-size: 12px;
+	color: #666;
+}
+
+.tags_ecoit span:not(:first-child){
+	padding: 3px 4px;
+	background: #FF5A00;
+	color: #fff;
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;	
+}
+
+.newer_ecoit{
+	border: 1px solid #ccc;
+	padding: 0 16px 10px 16px;
+	clear: both;
+	margin: 8px 0 !important;
+	text-align: left;
+	height: 187px;
+	overflow: hidden;
+}
+
+.newer_ecoit > span{
+	font-size: 12px;
+    font-weight: bold;
+    margin: 10px 0 !important;
+    padding-bottom: 6px;
+    display: block;
+
+    border-bottom: 1px solid #ccc;
+    clear: both;
+    text-align: left !important;
+}
+
+.newer_ecoit div{
+	overflow: hidden;
+	width: 100px;
+	height: 144px;
+	display: inline-block;
+	margin: 0 4px;
+	margin-bottom: 10px;
+}
+
+.newer_ecoit div img{
+	width: 100px !important;
+	height: 70px !important;
+}
+
+.newer_ecoit div a{
+	text-decoration: none !important;
+	font-size: 12px !important;
+	text-align: left !important;
+	color: #000;
+	display: block;
+	line-height: 18px !important;
+}
+
+.newer_ecoit div a:hover{
+	text-decoration: underline;
+	color: #449608 !important;
+}
+
+.older_ecoit{
+	clear: both;
+	margin: 8px 0 !important;
+	overflow: hidden;
+}
+
+.older_ecoit header span{
+	margin-left: 20px !important;
+}
+
+
+/* List Post */
+.list_posts_ecoit{	
+	padding: 0 !important;	
+}
+.list_posts_ecoit > h2{
+	width: 96%;
+	text-transform: uppercase;
+	font-weight: bold !important;
+	font-size: 14px !important;
+	color: #fff !important;
+	margin: 0 !important;
+	padding: 6px 0 !important;
+	border-bottom: 1px solid #E2CDCD;
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/box_header_style_2.png') 0 0;
+	background-size: 100% 100%;
+	padding-left: 10px !important;
+	line-height: 20px !important;
+}
+.i_post_ecoit{
+	width: 96%;
+	clear: both;
+	margin: 4px !important;
+	
+	padding-bottom: 10px;
+}
+.i_post_ecoit:not(:last-child){
+	border-bottom: 1px solid #ccc;
+}
+.i_post_ecoit h1{
+	padding: 0 !important;
+	font-size: 14px !important;
+	color: #367F00 !important;
+	margin: 8px 0px !important;
+	line-height: 20px !important;
+}
+
+.i_post_ecoit img{
+	float: left;
+	width: 30%;
+	margin-right: 10px;
+}
+
+.i_post_ecoit p{
+	font-size: 13px;
+	color: #000;
+	margin: 0 !important;
+	text-align: justify !important;
+}
+
+.i_post_ecoit span{
+	display: block !important;
+	width: 100% !important;
+	text-align: right !important;
+
+	clear: both !important;
+}
+.i_post_ecoit a{
+	font-weight: bold;
+	font-style: italic;
+	color: #FF5A00;
+	font-size: 12px !important;
+	text-decoration: none !important;
+}
+.i_post_ecoit a:hover{
+	cursor: pointer;
+	text-decoration: underline !important;
+}
+
+.pagination {
+	width: 100%;
+	text-align: center;
+    padding: 20px 0 0 0 !important;
+    margin-bottom: 20px;
+}
+
+.page {
+    display: inline-block;
+    padding: 6px 9px;
+    margin-right: 4px;
+    border-radius: 3px;
+    border: solid 1px #c0c0c0;
+    background: #e9e9e9;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+    font-size: .875em;
+    font-weight: bold;
+    text-decoration: none;
+    color: #717171;
+    text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+}
+
+.page:hover{
+    background: #fefefe;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FEFEFE), to(#f0f0f0));
+    background: -moz-linear-gradient(0% 0% 270deg,#FEFEFE, #f0f0f0);
+}
+
+.page.active {
+    border: none;
+    background: #FF5A00;
+    box-shadow: inset 0px 0px 8px rgba(0,0,0, .5), 0px 1px 0px rgba(255,255,255, .8);
+    color: #f0f0f0;
+    text-shadow: 0px 0px 3px rgba(0,0,0, .5);
+}
+
+/* widget aside */
+
+.thong_bao_ecoit{
+	border: 1px solid #ccc;
+	margin: 0 0 4px 0 !important;
+}
+
+.thong_bao_ecoit header{	
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-1.png');
+	background-size: 100% 100%;
+	height: 31px !important;
+	line-height: 31px !important;
+}
+
+.thong_bao_ecoit header span{
+	font-size: 12px !important;
+	font-weight: bold !important;
+	color: #fff !important;
+	margin-left: 6px;	
+}
+
+.thong_bao_ecoit header img{
+	vertical-align: middle;
+	margin-left: 8px;
+}
+
+.thong_bao_ecoit ul{
+	margin: 0 !important;	
+	padding: 0 0 10px 26px !important;
+	
+}
+.thong_bao_ecoit ul:after{
+	
+}
+.thong_bao_ecoit ul li:not(:last-child){
+	border-bottom: 1px solid #e1e1e1;
+}
+.thong_bao_ecoit ul li{
+	list-style: outside;
+	padding: 6px 0 !important;
+	color: #367F00;
+}
+
+.thong_bao_ecoit ul li a{
+	text-decoration: none !important;
+	color: #000;
+	font-size: 13px;
+}
+
+.thong_bao_ecoit ul li a:hover{
+	color: #FF5A00;
+}
+
+.box_6_dieu_bac_day_ecoit {
+    border: 1px solid #dc9a82;
+    border-radius: 3px;
+    margin: 0 0 4px !important;
+    padding: 2px;
+}
+.box_6_dieu_bac_day_ecoit header {
+    background: rgba(0, 0, 0, 0) url("https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg_title_right.gif") repeat-x scroll 0 0;
+    background-size: auto 100%; 
+}
+.box_6_dieu_bac_day_ecoit header span {
+    background: rgba(0, 0, 0, 0) url("https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/ico_5.gif") no-repeat scroll 11px center;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 0 3px 35px;
+}
+.content_6_dieu_bac_day_ecoit {
+    background: rgba(0, 0, 0, 0) url("https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/i_17.gif") repeat scroll 0 0 / 100% 100%;
+    height: 140px !important;
+    overflow: hidden;
+}
+.content_6_dieu_bac_day_ecoit marquee {
+    height: 100%;
+    margin-left: 38%;
+    width: 60%;
+}
+.content_6_dieu_bac_day_ecoit marquee ul {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.content_6_dieu_bac_day_ecoit marquee ul li {
+    line-height: 16px !important;
+    list-style: outside none none !important;
+    padding: 5px 0 !important;
+}
+.content_6_dieu_bac_day_ecoit marquee ul li:not(:last-child) {
+    border-bottom: 1px dotted #c30000;
+}
+.content_6_dieu_bac_day_ecoit marquee ul li a {
+    color: #c30000;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    text-decoration: none;
+}
+
+.content_6_dieu_bac_day_ecoit marquee ul li a:hover{
+	color: #c30000;
+	cursor: default;
+	text-decoration: none;
+}
+
+.can_biet_ecoit{
+	border: 1px solid #d7eaa5;
+	margin: 4px 0 !important;
+}
+
+.can_biet_ecoit header{
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-2.png');
+	background-size: 100% 100%;
+	height: 36px;
+	line-height: 36px;
+}
+
+.can_biet_ecoit header img{
+	width: 31px;
+	margin-left: 8px;
+	vertical-align: middle;
+}
+
+.can_biet_ecoit header span{
+	color: #618608 !important;
+	font-size: 12px !important;
+	font-weight: bold !important;
+	text-transform: uppercase;
+}
+
+.can_biet_ecoit ul{
+	margin: 0 !important;
+	padding: 10px !important;
+}
+
+.can_biet_ecoit li{
+	list-style: none !important;
+	padding: 4px 0 !important;
+}
+
+.can_biet_ecoit li span{
+	color: #d60000 ;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.phim_tu_lieu_ecoit{
+	border: 1px solid #F60;
+	margin: 4px 0 !important;
+}
+
+.phim_tu_lieu_ecoit header{
+	height: 31px;
+	line-height: 31px;
+	background: url(https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-3.png);
+	background-size: 100% 100%;
+	text-align: left;
+}
+
+.phim_tu_lieu_ecoit header a{
+	font-size: 12px !important;
+	font-weight: bold !important;
+	margin-left: 8px;
+	color: #fff;
+	text-transform: uppercase !important;
+	text-decoration: none;
+}
+
+.phim_tu_lieu_ecoit header a:hover{
+	color: #fff !important;
+	text-decoration: underline;;
+}
+
+.phim_tu_lieu_ecoit div{
+	width: 100%;
+	background: #fff;
+}
+
+.phim_tu_lieu_ecoit > a{
+	font-size: 11px;
+	text-decoration: none;
+	color: #787878 !important;
+	display: block;
+	clear: both;
+	text-align: right;
+	padding: 4px !important;
+}
+
+.phim_tu_lieu_ecoit a:hover{
+	color: #FF5A00 !important;
+}
+
+.other_widget_ecoit{
+	margin: 4px 0 !important;
+}
+
+.other_widget_ecoit header{
+	line-height: 31px;
+	height: 31px;
+	background: url(https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-4.png) repeat-x;
+	text-align: center;
+}
+
+.other_widget_ecoit header span{
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 12px !important;
+}
+
+.other_widget_content_ecoit{
+	text-align: center !important;	
+	padding: 6px 8px !important;
+	border: 1px solid #ccc;
+}
+
+.other_widget_content_ecoit select{
+	width: 80%;
+}
+
+.other_widget_content_ecoit select option,.other_widget_content_ecoit select{
+	font-size: 12px;
+	padding: 3px 4px !important;
+}
+
+.other_widget_content_ecoit span{
+	font-size: 1em;
+}
+
+/* footer */
+.top_footer_ecoit{
+	background: #ffeee5;
+	
+	margin: 0 !important;
+	padding: 0 30px !important;
+}
+
+.top_footer_ecoit li{
+	list-style: none;
+	display: inline-block;
+	padding: 8px 6px;
+}
+
+.top_footer_ecoit li a{
+	color: #c96b38 !important;
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold !important;
+	padding-right: 15px !important;
+}
+
+.top_footer_ecoit li:not(:last-child) a{
+	border-right: 1px solid #c96b38;
+}
+
+.contact_footer_ecoit{
+	
+	background: #ff5400 !important;
+	margin: 0 !important;
+	list-style: none !important;
+	padding: 20px 30px !important;
+}
+
+.contact_footer_ecoit li{
+	padding: 1px 0px !important;
+}
+
+.contact_footer_ecoit li:first-child{
+	font-weight: bold !important;
+}
+
+
+.contact_footer_ecoit li p{
+	font-size: 12px !important;
+	color: #fff;
+	margin: 0;
+}
+
+/* videos-ecoit */
+#videos-ecoit{
+	width: 99.43%;
+	padding-bottom: 10px;
+	
+}
+
+#videos-ecoit aside{	
+}
+#videos-ecoit aside div{
+	padding-right: 5px;
+}
+#videos-ecoit aside header{
+	
+	display: block;
+	height: 31px;
+	line-height: 31px;
+	background: url('https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-1.png');
+	color: #fff;
+	font-size: 12px;
+	font-weight: bold;
+	text-indent: 18%;
+	background-size: 100% 100%;
+}
+#videos-ecoit aside ul{	
+	padding: 0 24px;
+	margin: 0;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+#videos-ecoit aside ul li{
+	list-style: circle;
+	color: #FF5A00;
+	padding: 5px 8px;	
+}
+
+#videos-ecoit aside ul li:not(:last-child){
+	border-bottom: 1px dotted #333;
+}
+
+#videos-ecoit aside ul li a{
+	color: #333;
+	text-decoration: none;
+	font-size: 12px;
+}
+
+#videos-ecoit aside ul li a:hover{
+	color: #FF5A00;
+}
+
+.videos-ecoit{
+	min-height: 100px;
+	background: #ccc;
+}
+
+.videos-content-ecoit{
+}
+
+.video-show-ecoit{
+	float: left;
+	width: 48%;
+}
+
+.video-show-ecoit div{
+	width: 100%;
+	height: 300px;
+	background: #000;
+	margin-bottom: 6px;
+}
+
+.video-show-ecoit a{
+	font-size: 12px;
+	color: #3175B9;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.video-show-ecoit span{
+	font-size: 11px;
+	color: #333;
+}
+
+.list-video-ecoit{
+	float: right;
+	width: 48%;
+	height: 360px;
+	overflow-y: auto;
+}
+
+.list-video-ecoit div{
+	width: 100%;
+	content: "."; 
+	display: block; 
+	height: 74px; 
+	clear: both;
+	overflow: hidden;
+	
+	padding: 4px 0px;
+}
+
+.list-video-ecoit div:not(:last-child){
+	border-bottom: 1px solid #ccc;
+}
+
+.list-video-ecoit div:first-child{
+	padding-top: 0px;
+}
+
+.list-video-ecoit div img{
+	width: 100px;
+	height: 66px;
+	float: left;
+	margin: 4px;
+}
+
+.list-video-ecoit div a{
+	font-size: 12px;
+	color: #333;
+	text-decoration: none;
+	font-weight: bold;
+	display: block;
+	max-height: 66px;
+	overflow: hidden;
+	line-height: 16px;
+}
+
+.list-video-ecoit div a:hover{
+	color: #FF5A00;
+}
+/* Photo */
+
+.photo-show-ecoit{
+	padding: 0;
+	position: relative;
+}
+
+.photo-show-ecoit .left_arr_ecoit{
+	position: absolute;
+	left: 5px;
+	top: 30%;
+	width: 3%;
+	z-index: 2;
+	outline: none;
+	padding: 12px 8px !important;
+	background: rgba(0, 0, 0, 0.55);
+}
+
+.photo-show-ecoit .right_arr_ecoit{
+	position: absolute;
+	right: 25px;
+	top: 30%;
+	width: 3%;
+	z-index: 2;
+	outline: none;
+	padding: 12px 8px !important;
+	background: rgba(0, 0, 0, 0.55);
+}
+
+.photo-show-ecoit .right_arr_ecoit img,.photo-show-ecoit .left_arr_ecoit img{
+	width: 100%;
+}
+
+.photo-show-ecoit .right_arr_ecoit img:hover,.photo-show-ecoit .left_arr_ecoit img:hover{
+	cursor: pointer;
+}
+
+#photo-owl-slider-ecoit .item-owl{
+	text-align: center;
+	border: 1px solid #D4D4D4;
+}
+
+#photo-owl-slider-ecoit .item-owl img{
+	width: auto;
+    max-height: 500px;
+    margin: 0 auto;
+}
+
+#photo-owl-slider-ecoit .item-owl div{
+	text-align: left !important;
+    padding: 5px 10px !important;
+    background-color: #251B1B !important;
+}
+
+
+#photo-owl-slider-ecoit .item-owl div h6{
+	padding: 0 !important;
+	margin: 6px 0 0 0 !important;
+	font-size: 16px !important;
+	color:#fff !important;
+}
+
+#photo-owl-slider-ecoit .item-owl div span{
+	font-size: 12px;
+	color: #CC9292;
+}
+
+#photo-owl-slider-ecoit .item-owl div p{
+	font-size: 14px;
+	text-indent: 20px !important;
+	margin-top: 4px !important;
+	text-align: justify;
+	color: rgb(255, 84, 0);
+}
+/* ------------*/
+
+
+/* TTHC */
+
+.tthc-ecoit{
+	border: 1px solid #F1DCDC;
+}
+
+.tthc-ecoit header{
+	background: url(https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/bg-right.png) repeat-x scroll 0 0;
+	border-bottom: 1px solid #F1DCDC;
+}
+
+.tthc-ecoit header span{
+	font-size: 13px;
+	font-weight: bold;
+	color: #DE0716;
+	padding: 6px 5px 6px 50px;
+	display: block;
+	background: url(https://hoilhpn.org.vn/ECOIT-ThuVienAnh-portlet/images/caht/icons/left.gif) no-repeat scroll 0 0;
+}
+
+.tthc-top-ecoit{
+	padding: 20px !important;
+}
+
+.tthc-top-ecoit > img{
+	float: left;
+	width: 20%;
+}
+
+.tthc-top-ecoit > table{
+	float: right;
+	width: 75%;
+	min-height: 10px;	
+}
+
+.tthc-form-ecoit td{
+	padding: 4px 0px;
+	vertical-align: top;
+}
+
+.tthc-form-ecoit label{
+	font-size: 13px;
+	color: #333;
+
+}
+
+.tthc-form-ecoit td:nth-child(2) input,.tthc-form-ecoit td:nth-child(2) select{
+	width: 60%;
+	border: 1px solid #6AC0F6;
+	padding: 3px 6px;
+	font-size: 14px;
+}
+
+.tthc-form-ecoit td:nth-child(2) select{
+	width: 64.1% !important;
+}
+
+.tthc-form-ecoit td:first-child button{
+	font-size: 13px;
+	font-weight: bold;
+	color: #333;
+	background: #fff;
+	border: 1px solid #ccc;
+	padding: 5px 8px !important;
+	margin-top: 20px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	outline: none;
+}
+
+.tthc-form-ecoit td:first-child button:hover{
+
+}
+
+.box-tthc-ds-ecoit{
+	padding: 10px;
+}
+
+.box-tthc-ds-ecoit p{
+	color: rgb(210, 58, 2);
+	font-weight: bold;
+	font-size: 12px;
+	margin-bottom: 5px;
+}
+.box-tthc-ds-ecoit div{
+	padding: 3px;
+	border: 1px solid #F7E5D5;
+}
+.tthc-ds-ecoit{
+	width: 100%;
+}
+
+.tthc-ds-ecoit thead{
+	background: #FFF4E1;
+}
+
+.tthc-ds-ecoit thead th{
+	font-size: 13px;
+	color: #C05C0B;
+	font-weight: bold;
+	padding: 8px !important;
+}
+
+.tthc-ds-ecoit tbody tr td{
+	font-size: 12px;
+	padding: 8px !important;	
+}
+
+.tthc-ds-ecoit tbody tr td a{
+	text-decoration: none;
+	color: #000;
+}
+
+.tthc-ds-ecoit tbody tr td a:hover{
+	color: #FF5A00;
+}
+
+.tthc-ds-ecoit tbody tr:nth-child(2n+1) td{
+	background: #fff;
+}
+
+.tthc-ds-ecoit tbody tr:nth-child(2n) td{
+	background: #FFF4E1;
+}
+
+/* TTHC Chi Tiet */
+
+#accordionA{
+	padding: 5px;
+}
+
+
+/* Other */
+.flr{
+	float: right !important;
+}
+
+.fll{
+	float: left !important;
+}
+
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}
+
+	.searchBox{
+
+	}
+	.searchBoxForm{
+	 	padding: 5px;
+	}
+	.inputSearch{
+		 width: 64% !important;
+	    height: 21px !important;
+	    margin: 0 !important;
+	}
+	.buttonSearch{
+		height: 30px;
+	    color: #fff;
+	    background-color: #C91B1B;
+	    border: 1px solid #906D6D !important;
+	    border-radius: 4px 4px 4px 4px;
+	    -moz-border-radius: 4px 4px 4px 4px;
+	    -webkit-border-radius: 4px 4px 4px 4px;
+	}
+	.resultSearch{
+		background: none !important;
+		color:#000 !important;
+		
+	}
+	
+	.journal-content-article > p{
+		margin-bottom : 0 !important;
+	}
